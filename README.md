@@ -4,7 +4,7 @@ platforms: python
 author: cephalin
 ---
 
-# Python sample for Azure App Service - Django
+# Exemplo de aplicação web Django
 
 This is a Python web app built on the [Django](https://www.djangoproject.com/) framework that you can deploy 
 to Azure App Service. 
